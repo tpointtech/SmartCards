@@ -378,4 +378,4 @@ Then we load it and be able to use it.
 
 
 Bibl:
-https://www.javatpoint.com/ai-alpha-beta-pruning
+https://www.tpointtech.com/ai-alpha-beta-pruning
